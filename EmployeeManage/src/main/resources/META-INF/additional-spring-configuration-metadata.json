@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.data.couchbase.connection-string",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.couchbase.connection-string'"
+  },
+  {
+    "name": "spring.data.couchbase.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.couchbase.username'"
+  },
+  {
+    "name": "spring.data.couchbase.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.couchbase.password'"
+  }
+]}
